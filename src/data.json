@@ -1,0 +1,33 @@
+[
+    {
+        "objectName": "Object A",
+        "data": [
+            {
+                "name": "bishal ",
+                "email": "bishalmac94@gmail.com",
+                "phone": "123456",
+                "id": "1"
+            },
+            {
+                "name": "rahul",
+                "email": "rahulmac94@gmail.com",
+                "phone": "123456456974",
+                "id": "2"
+            }
+        ]
+    },
+    {
+        "objectName": "Object B",
+        "roleName": "bishal",
+        "email": "bishalmac94@gmail.com",
+        "phone": "123456",
+        "phone_no": "1236548",
+        "id": "3"
+    },
+    {
+        "objectName": "Object C",
+        "address": "kolkata",
+        "state": "west bengal",
+        "id": "4"
+    }
+]
